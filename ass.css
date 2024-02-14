@@ -1,0 +1,57 @@
+
+.head img{
+    margin-left: 200%;
+    height: 40px;    
+}
+
+.abc img{
+     height: 70px;
+}
+.section1{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.abc{
+    display: flex;
+    align-items: center;
+    margin-right: 30%;
+}
+.fo{
+    display: flex;
+    
+    align-items: center;
+}
+.box{
+    width: 500px;
+    border: 2px solid silver;
+    padding: 10px;
+    margin-left: 2%;
+    
+    
+}
+.box-1{
+    width: 500px;
+    border: 2px solid silver;
+    padding: 10px;
+    margin-left: 30%;
+    margin-top: 0% ;
+    
+}
+
+.mid img{
+    height: 30px;
+}
+.mid{
+    display: flex;
+    align-items: center;
+
+}
+.middle{
+    margin-left: 15%;
+    
+}
+.fix{
+    display: flex;
+}
